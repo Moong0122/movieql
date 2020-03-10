@@ -21,7 +21,8 @@
   "homepage": "https://github.com/Moong0122/movieql#readme",
   "dependencies": {
     "babel-node": "^0.0.1-security",
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
