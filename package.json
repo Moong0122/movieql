@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Moong0122/movieql#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "babel-node": "^0.0.1-security",
     "graphql-yoga": "^1.18.3",
     "node-fetch": "^2.6.0"
